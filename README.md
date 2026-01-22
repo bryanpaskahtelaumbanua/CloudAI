@@ -25,9 +25,11 @@ https://cloudwhisper-ai.streamlit.app
 pip install -r requirements.txt
 streamlit run app.py
 
+```
 Aplikasi ini berjalan menggunakan CPU only dan cocok untuk demo,
 penelitian, serta kebutuhan edukasi.
 
 Dibuat oleh Bryan
+
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen)](https://cloudwhisper-ai.streamlit.app)
 
